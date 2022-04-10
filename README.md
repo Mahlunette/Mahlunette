@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/)
 
-- 🌱 I’m currently learning **Reactjs and Angular**
+- 🌱 I’m currently learning **Reactjs**
 
 - 📫 How to reach me **mhtbmahdavifar@gmail.com**
 
