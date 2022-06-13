@@ -7,9 +7,9 @@
 
 - 💬 Ask me about Ruby on Rails, HTML and CSS. 
 
-- 📫 How to reach me **mhtbmahdavifar@gmail.com**
+- 📫 You can reach me **mhtbmahdavifar@gmail.com**
 
-- ⚡ Fun fact **I'm passionate and funny and love arts and languages! Cooking is my meditation:)**
+- ⚡ Fun fact about me: ** Cooking is my meditation:)** I'm passionate and funny and love arts and languages!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
