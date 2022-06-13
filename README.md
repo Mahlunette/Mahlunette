@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/) and learning **Reactjs**
 
+- 💬 Ask me about Ruby on Rails, HTML and CSS. 
+
 - 📫 How to reach me **mhtbmahdavifar@gmail.com**
 
 - ⚡ Fun fact **I'm passionate and funny and love arts and languages! Cooking is my meditation:)**
