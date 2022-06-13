@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahtab</h1>
 <h3 align="center">A curious full-stack developer from Amsterdam, the Netherlands</h3>
 
-- 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/) and learning **Reactjs**
+- 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/) using Rails. 
+
+- My current learning **Reactjs** with **HackYourFuture Denmark** (https://www.hackyourfuture.dk/). 
 
 - 💬 Ask me about Ruby on Rails, HTML and CSS. 
 
