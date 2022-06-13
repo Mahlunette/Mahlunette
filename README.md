@@ -9,7 +9,7 @@
 
 - 📫 You can reach me **mhtbmahdavifar@gmail.com**
 
-- ⚡ Fun fact about me: ** Cooking is my meditation:)** I'm passionate and funny and love arts and languages!
+- ⚡ Fun fact about me: **Cooking is my meditation** I'm passionate and funny and love arts and languages!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
