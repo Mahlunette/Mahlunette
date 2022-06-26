@@ -5,7 +5,7 @@
 
 - My current learning is **Reactjs** with [HackYourFuture Denmark](https://www.hackyourfuture.dk/). 
 
-- 💬 Ask me about Ruby on Rails, Java Script, HTML and CSS. 
+- 💬 Ask me about Ruby on Rails, JavaScript, HTML and CSS. 
 
 - 📫 You can reach me **mhtbmahdavifar@gmail.com**
 
