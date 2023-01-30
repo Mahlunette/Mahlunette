@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👩🏻‍💼, I'm Mahtab</h1>
 <h3 align="center">A curious full-stack developer from Amsterdam, the Netherlands</h3>
 
-- 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/) using Rails. 
+- 🔭 I’m currently working at Deloitte as a Developer.  
 
 - My current learning is **AWS**. 
 
