@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a web application to offer tours](https://bemytourguy.herokuapp.com/) using Rails. 
 
-- My current learning is **Reactjs** with [HackYourFuture Denmark](https://www.hackyourfuture.dk/). 
+- My current learning is **AWS**. 
 
 - 💬 Ask me about Ruby on Rails, JavaScript, HTML and CSS. 
 
