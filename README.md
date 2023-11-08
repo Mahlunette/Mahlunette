@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👩🏻‍💼, I'm Mahtab</h1>
-<h3 align="center">A curious full-stack developer from Amsterdam, the Netherlands</h3>
+<h3 align="center">A DevOps Engineer from Amsterdam </h3>
 
-- 🔭 I’m currently working at Deloitte as a Developer.  
+- 🔭 I’m currently working at Deloitte.  
 
 - My current learning is **AWS**. 
 
-- 💬 Ask me about Ruby on Rails, JavaScript, HTML and CSS. 
+- 💬 Ask me about Azure Pipelines, CI/CD, anything DevOpsy. 
 
 - 📫 You can reach me **mhtbmahdavifar@gmail.com**
 
